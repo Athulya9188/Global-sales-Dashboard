@@ -59,7 +59,7 @@ This Power BI dashboard provides interactive insights into sales performance, cu
 
 - Sales Dashboard.pbix
 - dashboard.png
-- Dataset (if included)
+- Dataset
 
 ---
 
